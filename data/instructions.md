@@ -3,7 +3,6 @@
 Probatio - firmware hub (M5Stick-C)
 
 Filipe Calegario (2020)
-
 Edu Meneses - IDMIL - McGill University (2021)
 
 ## Setup Instructions
